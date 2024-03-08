@@ -1,6 +1,4 @@
 [submodule "libft"]
 	path = libft
 	url = https://github.com/vcereced/libft.git
-[submodule "Scalian Challenge"]
-	path = Scalian Challenge
-	url = https://github.com/vcereced/Scalian-Challenge
+
